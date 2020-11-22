@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/dwyerse.github.io/static/css/main.ed3a0826.chunk.css",
+    "main.js": "/dwyerse.github.io/static/js/main.507de6a2.chunk.js",
+    "main.js.map": "/dwyerse.github.io/static/js/main.507de6a2.chunk.js.map",
+    "runtime-main.js": "/dwyerse.github.io/static/js/runtime-main.9a77a6a3.js",
+    "runtime-main.js.map": "/dwyerse.github.io/static/js/runtime-main.9a77a6a3.js.map",
+    "static/js/2.1496df37.chunk.js": "/dwyerse.github.io/static/js/2.1496df37.chunk.js",
+    "static/js/2.1496df37.chunk.js.map": "/dwyerse.github.io/static/js/2.1496df37.chunk.js.map",
+    "static/js/3.1923d541.chunk.js": "/dwyerse.github.io/static/js/3.1923d541.chunk.js",
+    "static/js/3.1923d541.chunk.js.map": "/dwyerse.github.io/static/js/3.1923d541.chunk.js.map",
+    "index.html": "/dwyerse.github.io/index.html",
+    "static/css/main.ed3a0826.chunk.css.map": "/dwyerse.github.io/static/css/main.ed3a0826.chunk.css.map",
+    "static/js/2.1496df37.chunk.js.LICENSE.txt": "/dwyerse.github.io/static/js/2.1496df37.chunk.js.LICENSE.txt",
+    "static/media/cat-notes.032390e3.png": "/dwyerse.github.io/static/media/cat-notes.032390e3.png",
+    "static/media/formulae.ff97c001.webp": "/dwyerse.github.io/static/media/formulae.ff97c001.webp",
+    "static/media/log-tables.13953845.webp": "/dwyerse.github.io/static/media/log-tables.13953845.webp",
+    "static/media/profile.f500184e.jpeg": "/dwyerse.github.io/static/media/profile.f500184e.jpeg",
+    "static/media/word-bridges.eb5a1d88.webp": "/dwyerse.github.io/static/media/word-bridges.eb5a1d88.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a77a6a3.js",
+    "static/js/2.1496df37.chunk.js",
+    "static/css/main.ed3a0826.chunk.css",
+    "static/js/main.507de6a2.chunk.js"
+  ]
+}
