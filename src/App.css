@@ -40,7 +40,7 @@
 }
 
 .textContainer {
-  width: 14rem;
+  width: 12rem;
 }
 
 .cardHeader {
@@ -76,16 +76,63 @@
   color: gray;
 }
 
+.codeButton {
+  text-decoration: none;
+  cursor: pointer;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  margin: 8px;
+}
+
+.codeText:hover {
+  background-color: #f1f1f1;
+}
+
+.codeText {
+  color: gray;
+  padding: 16px;
+  width: 32px;
+  height: 32px;
+  border-radius: 200px;
+}
+
 .card:hover {
   box-shadow: 0 8px 16px 0 rgba(88, 88, 88, 0.4);
 }
 
 .image {
-  width: 14rem;
+  width: 12rem;
+}
+
+.sectionTitle {
+  font-size: 1.5em;
+  color: #343b47;
+  font-weight: 300;
+  margin: 16px;
 }
 
 .projects {
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
+}
+
+.repos {
+  text-align: center;
+  margin: 16px;
+}
+
+.repo {
+  text-align: center;
+  padding: 4px;
+  text-decoration: none;
+}
+
+.repo:visited {
+  color: #343b47;
+}
+
+.repo:hover {
+  color: lightgray;
 }
