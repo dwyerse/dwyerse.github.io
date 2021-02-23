@@ -2,12 +2,16 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 30vmin;
+.myPicture {
+  height: 12rem;
   pointer-events: none;
   border-radius: 200px;
   border: solid 7px white;
   box-shadow: 0 4px 8px 0 rgba(88, 88, 88, 0.2);
+}
+
+.myName {
+  font-size: 1em;
 }
 
 .App-header {

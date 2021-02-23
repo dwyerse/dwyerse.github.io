@@ -10,8 +10,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h3 style={{ fontWeight: 400 }}>Séamus Dwyer</h3>
+        <img src={logo} className="myPicture" alt="logo" />
+        <h3 className="myName">Séamus Dwyer</h3>
       </header>
       <div className="sectionTitle">Projects</div>
       <div className="projects">
