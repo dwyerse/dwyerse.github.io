@@ -1,27 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.79a56429.chunk.css",
-    "main.js": "/static/js/main.6e3c47f2.chunk.js",
-    "main.js.map": "/static/js/main.6e3c47f2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.228a63d9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.228a63d9.js.map",
-    "static/js/2.1496df37.chunk.js": "/static/js/2.1496df37.chunk.js",
-    "static/js/2.1496df37.chunk.js.map": "/static/js/2.1496df37.chunk.js.map",
-    "static/js/3.1923d541.chunk.js": "/static/js/3.1923d541.chunk.js",
-    "static/js/3.1923d541.chunk.js.map": "/static/js/3.1923d541.chunk.js.map",
+    "main.css": "/static/css/main.9a6a1996.chunk.css",
+    "main.js": "/static/js/main.c167cb6f.chunk.js",
+    "main.js.map": "/static/js/main.c167cb6f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ae89476d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ae89476d.js.map",
+    "static/js/2.9d431168.chunk.js": "/static/js/2.9d431168.chunk.js",
+    "static/js/2.9d431168.chunk.js.map": "/static/js/2.9d431168.chunk.js.map",
+    "static/js/3.ea96e4a6.chunk.js": "/static/js/3.ea96e4a6.chunk.js",
+    "static/js/3.ea96e4a6.chunk.js.map": "/static/js/3.ea96e4a6.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.79a56429.chunk.css.map": "/static/css/main.79a56429.chunk.css.map",
-    "static/js/2.1496df37.chunk.js.LICENSE.txt": "/static/js/2.1496df37.chunk.js.LICENSE.txt",
+    "static/css/main.9a6a1996.chunk.css.map": "/static/css/main.9a6a1996.chunk.css.map",
+    "static/js/2.9d431168.chunk.js.LICENSE.txt": "/static/js/2.9d431168.chunk.js.LICENSE.txt",
     "static/media/cat-notes.032390e3.png": "/static/media/cat-notes.032390e3.png",
-    "static/media/formulae.ff97c001.webp": "/static/media/formulae.ff97c001.webp",
-    "static/media/log-tables.13953845.webp": "/static/media/log-tables.13953845.webp",
-    "static/media/profile.f500184e.jpeg": "/static/media/profile.f500184e.jpeg",
+    "static/media/profile.73986e2d.jpg": "/static/media/profile.73986e2d.jpg",
     "static/media/word-bridges.eb5a1d88.webp": "/static/media/word-bridges.eb5a1d88.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.228a63d9.js",
-    "static/js/2.1496df37.chunk.js",
-    "static/css/main.79a56429.chunk.css",
-    "static/js/main.6e3c47f2.chunk.js"
+    "static/js/runtime-main.ae89476d.js",
+    "static/js/2.9d431168.chunk.js",
+    "static/css/main.9a6a1996.chunk.css",
+    "static/js/main.c167cb6f.chunk.js"
   ]
 }
