@@ -1,0 +1,46 @@
+.card {
+  transition: all 0.2s;
+  border-radius: 0px 0px 10px 10px;
+  background-color: rgb(8, 8, 8);
+  cursor: pointer;
+  margin: 20px;
+  text-decoration: none;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(201, 201, 201, 0.4);
+}
+
+.textContainer {
+  width: 12rem;
+}
+
+.cardHeader {
+  flex: 1;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+}
+
+.title {
+  display: inline-block;
+  padding: 8px;
+  text-align: start;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.year {
+  display: inline-block;
+  padding: 8px;
+  font-size: 13px;
+  font-weight: 300;
+  text-align: end;
+}
+
+.subtitle {
+  padding: 8px;
+  font-size: 14px;
+  font-weight: 300;
+  text-align: start;
+}

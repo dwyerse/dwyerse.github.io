@@ -1,83 +1,40 @@
+body div {
+  color: #f1f1f1;
+  font-family: "Quicksand", sans-serif;
+}
+
 .App {
   text-align: center;
+  color: #f1f1f1;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
-.myPicture {
+.App .myPicture {
   height: 12rem;
   pointer-events: none;
-  border-radius: 200px;
-  border: solid 7px white;
-  box-shadow: 0 4px 8px 0 rgba(88, 88, 88, 0.2);
-}
-
-.myName {
-  font-size: 1em;
+  border-radius: 100%;
 }
 
 .App-header {
-  background-color: #343b47;
-  min-height: 50vh;
+  flex: 1;
+  background-color: rgb(8, 8, 8);
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-around;
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 16px;
 }
 
 .link {
   font-size: 14px;
-  color: #61dafb;
 }
 
 .item {
   font-size: 18px;
-}
-
-.card {
-  box-shadow: 0 4px 8px 0 rgba(88, 88, 88, 0.2);
-  transition: 0.3s;
-  border-radius: 10px;
-  cursor: pointer;
-  margin: 20px;
-  text-decoration: none;
-}
-
-.textContainer {
-  width: 12rem;
-}
-
-.cardHeader {
-  flex: 1;
-  flex-direction: row;
-  display: flex;
-  justify-content: space-between;
-}
-
-.title {
-  display: inline-block;
-  padding: 8px;
-  text-align: start;
-  font-weight: 700;
-  color: #343b47;
-  text-decoration: none;
-}
-
-.year {
-  display: inline-block;
-  padding: 8px;
-  font-size: 13px;
-  font-weight: 300;
-  text-align: end;
-  color: #343b47;
-}
-
-.subtitle {
-  padding: 8px;
-  font-size: 14px;
-  font-weight: 300;
-  text-align: start;
-  color: gray;
 }
 
 .codeButton {
@@ -94,15 +51,10 @@
 }
 
 .codeText {
-  color: gray;
   padding: 16px;
   width: 32px;
   height: 32px;
   border-radius: 200px;
-}
-
-.card:hover {
-  box-shadow: 0 8px 16px 0 rgba(88, 88, 88, 0.4);
 }
 
 .image {
@@ -111,7 +63,6 @@
 
 .sectionTitle {
   font-size: 1.5em;
-  color: #343b47;
   font-weight: 300;
   margin: 16px;
 }
@@ -124,19 +75,22 @@
 
 .repos {
   text-align: center;
-  margin: 16px;
 }
 
 .repo {
   text-align: center;
   padding: 4px;
   text-decoration: none;
-}
-
-.repo:visited {
-  color: #343b47;
+  color: white;
 }
 
 .repo:hover {
   color: lightgray;
+}
+
+.bottom {
+  background-color: rgb(26, 26, 26);
+  width: 100vw;
+  display: inline-block;
+  flex: 2;
 }
