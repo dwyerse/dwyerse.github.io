@@ -82,6 +82,7 @@ body div {
   padding: 4px;
   text-decoration: none;
   color: white;
+  display: inline-block;
 }
 
 .repo:hover {
